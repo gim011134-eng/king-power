@@ -3,7 +3,8 @@ import time
 import random
 
 # --- الإعدادات ---
-target_user = "7i7.m"  # تأكد من اليوزر هنا
+target_user = "dxx_2024_
+"  # تأكد من اليوزر هنا
 url = f"https://www.instagram.com/{target_user}/"
 
 # قائمة هويات متصفحات عشان التمويه
